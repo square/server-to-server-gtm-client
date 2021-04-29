@@ -1,0 +1,5 @@
+homepage: "https://developer.squareup.com/blog/"
+documentation: "https://github.com/square/server-to-server-gtm-client/blob/main/README.md"
+versions:
+  - sha: TO_BE_ADDED
+    changeNotes: Initial release.
